@@ -8,4 +8,4 @@ List of all conditions:
 
 
 Image:
-![Image](file:///Users/cathysung/Desktop/Screen%20Shot%202020-03-10%20at%202.03.27%20AM.png)
+![Image](/qascreenshot)
