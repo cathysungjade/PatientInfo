@@ -8,4 +8,4 @@ List of all conditions:
 
 
 Image:
-![Image](/qascreenshot)
+![Image](/patientinfo/qa_screenshot.png)
